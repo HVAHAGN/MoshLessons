@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\bin\Debug\Extensions.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\bin\Debug\Extensions.exe
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\bin\Debug\Extensions.pdb
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\obj\Debug\Extensions.exe
+C:\Users\User\source\repos\Mosh_Advanced\Extensions\obj\Debug\Extensions.pdb

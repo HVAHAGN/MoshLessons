@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\bin\Debug\EventsAndDelegates_03.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\bin\Debug\EventsAndDelegates_03.exe
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\bin\Debug\EventsAndDelegates_03.pdb
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\obj\Debug\EventsAndDelegates_03.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\obj\Debug\EventsAndDelegates_03.exe
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\obj\Debug\EventsAndDelegates_03.pdb
+C:\Users\User\source\repos\Mosh_Advanced\EventsAndDelegates_03\obj\Debug\EventsAndDelegates_03.csprojAssemblyReference.cache
