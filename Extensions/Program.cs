@@ -24,10 +24,13 @@ namespace Extensions
                 }
                 else
                 {
-                    var result = StringExtensions.Shorten(post, number);
-                    Console.WriteLine(result);
+                    var result = Extensions.Shorten(post, number);
+                    var numbers = new List<int>() { 0, 1, 20, 5, 3, 15, 51 };
+                    var max = Extensions.GetMax(numbers);
+                    Console.WriteLine($"{result}, Max number is {max}");
                 }
             }
+            
 
             Console.ReadLine();
         }
