@@ -21,6 +21,7 @@ namespace Methods
                 Console.WriteLine("Conversion failed");
             }
 
+
             Console.ReadLine();
         }
 
