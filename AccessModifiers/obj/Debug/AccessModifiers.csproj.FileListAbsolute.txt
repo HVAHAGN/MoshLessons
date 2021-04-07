@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\obj\Debug\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\User\source\repos\Mosh_Advanced\AccessModifiers\obj\Debug\AccessModifiers.pdb
