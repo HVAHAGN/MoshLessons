@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Mosh_Advanced\MultipleValueDictionary\bin\Debug\MultipleValueDictionary.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\MultipleValueDictionary\bin\Debug\MultipleValueDictionary.exe
+C:\Users\User\source\repos\Mosh_Advanced\MultipleValueDictionary\bin\Debug\MultipleValueDictionary.pdb
+C:\Users\User\source\repos\Mosh_Advanced\MultipleValueDictionary\obj\Debug\MultipleValueDictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\MultipleValueDictionary\obj\Debug\MultipleValueDictionary.exe
+C:\Users\User\source\repos\Mosh_Advanced\MultipleValueDictionary\obj\Debug\MultipleValueDictionary.pdb

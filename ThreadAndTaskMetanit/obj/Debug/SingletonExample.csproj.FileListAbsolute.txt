@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Mosh_Advanced\ThreadAndTaskMetanit\obj\Debug\SingletonExample.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\ThreadAndTaskMetanit\bin\Debug\ThreadAndTaskMetanit.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\ThreadAndTaskMetanit\bin\Debug\ThreadAndTaskMetanit.exe
+C:\Users\User\source\repos\Mosh_Advanced\ThreadAndTaskMetanit\bin\Debug\ThreadAndTaskMetanit.pdb
+C:\Users\User\source\repos\Mosh_Advanced\ThreadAndTaskMetanit\obj\Debug\ThreadAndTaskMetanit.exe
+C:\Users\User\source\repos\Mosh_Advanced\ThreadAndTaskMetanit\obj\Debug\ThreadAndTaskMetanit.pdb
