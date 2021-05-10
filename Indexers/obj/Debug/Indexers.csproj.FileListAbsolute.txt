@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\bin\Debug\Indexers.exe
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\bin\Debug\Indexers.pdb
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\obj\Debug\Indexers.exe
+C:\Users\User\source\repos\Mosh_Advanced\Indexers\obj\Debug\Indexers.pdb
