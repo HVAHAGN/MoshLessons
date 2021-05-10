@@ -4,3 +4,4 @@ C:\Users\User\source\repos\Mosh_Advanced\NullableTypes\bin\Debug\NullableTypes.p
 C:\Users\User\source\repos\Mosh_Advanced\NullableTypes\obj\Debug\NullableTypes.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Mosh_Advanced\NullableTypes\obj\Debug\NullableTypes.exe
 C:\Users\User\source\repos\Mosh_Advanced\NullableTypes\obj\Debug\NullableTypes.pdb
+C:\Users\User\source\repos\Mosh_Advanced\NullableTypes\obj\Debug\NullableTypes.csprojAssemblyReference.cache

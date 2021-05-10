@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\bin\Debug\CommonQuestions.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\bin\Debug\CommonQuestions.exe
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\bin\Debug\CommonQuestions.pdb
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\obj\Debug\CommonQuestions.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\obj\Debug\CommonQuestions.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\obj\Debug\CommonQuestions.exe
+C:\Users\User\source\repos\Mosh_Advanced\CommonQuestions\obj\Debug\CommonQuestions.pdb

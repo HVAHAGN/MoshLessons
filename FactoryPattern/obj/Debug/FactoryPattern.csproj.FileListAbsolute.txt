@@ -1,7 +1,6 @@
 C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\bin\Debug\FactoryPattern.exe.config
 C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\bin\Debug\FactoryPattern.exe
 C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\bin\Debug\FactoryPattern.pdb
-C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
 C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\obj\Debug\FactoryPattern.exe
 C:\Users\User\source\repos\Mosh_Advanced\FactoryPattern\obj\Debug\FactoryPattern.pdb

@@ -4,3 +4,4 @@ C:\Users\User\source\repos\Mosh_Advanced\Methods\bin\Debug\Methods.pdb
 C:\Users\User\source\repos\Mosh_Advanced\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Mosh_Advanced\Methods\obj\Debug\Methods.exe
 C:\Users\User\source\repos\Mosh_Advanced\Methods\obj\Debug\Methods.pdb
+C:\Users\User\source\repos\Mosh_Advanced\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
