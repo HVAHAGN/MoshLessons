@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.exe
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\bin\Debug\AlgorithmsComplexity.pdb
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.exe
+C:\Users\User\source\repos\Mosh_Advanced\AlgorithmsComplexity\obj\Debug\AlgorithmsComplexity.pdb
