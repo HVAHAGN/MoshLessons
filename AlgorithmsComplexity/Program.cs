@@ -109,6 +109,11 @@ namespace AlgorithmsComplexity
             return scrambledArray;
         }
 
+
+        /*O(log n)
+        An algorithm is said to take logarithmic time if T(n) = O(log n). Algorithms taking logarithmic time are commonly 
+        found in operations on binary trees or when using binary search.An O(log n) algorithm is considered highly efficient,
+        as the operations per instance required to complete decrease with each instance*/
         /*Binary search is one of the most basic yet very useful algorithms. It can operate on sorted arrays or range of values.*/
         public static int FindValuePostionUsingBinarySearch(List<int> numberElements, int valueToBeSearched)
         {
@@ -142,5 +147,55 @@ namespace AlgorithmsComplexity
             return -1;
         }
 
+
+        /*O (n log n)
+       Often, good sorting algorithms are roughly O(nlogn). An example of an algorithm with this efficiency is merge sort, 
+       which breaks up an array into two halves, sorts those two halves by recursively calling itself on them, and then 
+       merging the result back into a single array. */
+
+        public static int[] MergeSort(int[] inputItems, int lowerBound, int upperBound)
+        {
+            if (lowerBound < upperBound)
+            {
+                int middle = (lowerBound + upperBound) / 2;
+
+                MergeSort(inputItems, lowerBound, middle);
+                MergeSort(inputItems, middle + 1, upperBound);
+
+                //Merge
+                int[] leftArray = new int[middle - lowerBound + 1];
+                int[] rightArray = new int[upperBound - middle];
+
+                Array.Copy(inputItems, lowerBound, leftArray, 0, middle - lowerBound + 1);
+                Array.Copy(inputItems, middle + 1, rightArray, 0, upperBound - middle);
+
+                int i = 0;
+                int j = 0;
+                for (int count = lowerBound; count < upperBound + 1; count++)
+                {
+                    if (i == leftArray.Length)
+                    {
+                        inputItems[count] = rightArray[j];
+                        j++;
+                    }
+                    else if (j == rightArray.Length)
+                    {
+                        inputItems[count] = leftArray[i];
+                        i++;
+                    }
+                    else if (leftArray[i] <= rightArray[j])
+                    {
+                        inputItems[count] = leftArray[i];
+                        i++;
+                    }
+                    else
+                    {
+                        inputItems[count] = rightArray[j];
+                        j++;
+                    }
+                }
+            }
+            return inputItems;
+        }
     }
 }
