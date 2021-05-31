@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\bin\Debug\AsyncVsThreads.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\bin\Debug\AsyncVsThreads.exe
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\bin\Debug\AsyncVsThreads.pdb
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\obj\Debug\AsyncVsThreads.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\obj\Debug\AsyncVsThreads.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\obj\Debug\AsyncVsThreads.exe
+C:\Users\User\source\repos\Mosh_Advanced\AsyncVsThreads\obj\Debug\AsyncVsThreads.pdb

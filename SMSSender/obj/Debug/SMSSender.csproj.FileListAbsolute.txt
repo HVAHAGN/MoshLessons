@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\obj\Debug\SMSSender.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\obj\Debug\SMSSender.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\SMSSender.exe.config
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\SMSSender.exe
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\SMSSender.pdb
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Twilio.dll
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\bin\Debug\Twilio.xml
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\obj\Debug\SMSSender.csproj.CopyComplete
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\obj\Debug\SMSSender.exe
+C:\Users\User\source\repos\Mosh_Advanced\SMSSender\obj\Debug\SMSSender.pdb
